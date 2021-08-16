@@ -1,0 +1,8 @@
+name: MyCRank
+main: net.createlight.champrin.mycrank.MyCRank
+version: "1.0.0"
+api: ["1.0.8"]
+
+author: CreateLight_Studio-Champrin
+description: "Used to sort the players' data in my game plugin"
+

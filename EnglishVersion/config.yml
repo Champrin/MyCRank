@@ -1,0 +1,6 @@
+#%NO% Indicates ranking %NAME% Indicates the player's name %RECORD% Indicates the player's time or score
+each-number-format: "§r§fNo.§l§c%NO%§r§f:§f%NAME%---%RECORD%"
+tip-on-title: "Note: the number before the player's name represents the ranking, and the number after the player's name represents the time or score\n the record is displayed as player-000, which is no record at present"
+
+#%NAME% Indicates the plug-in name or a leaderboard name
+windowForm-title: "§l§a%NAME%§f排行榜"

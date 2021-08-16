@@ -1,0 +1,6 @@
+#%NO%表示排名 %NAME%表示玩家名字 %RECORD%表示玩家的所用时间或分数
+each-number-format: "§r§f第§l§c%NO%§r§f名:§f%NAME%---%RECORD%"
+tip-on-title: "注:玩家名字前的数字代表排名，玩家名字后的数字代表时间或分数\n记录显示为player-000是暂无记录"
+
+#%NAME% 表示插件名字或某一排行榜名字
+windowForm-title: "§l§a%NAME%§f排行榜"
